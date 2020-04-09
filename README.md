@@ -1,8 +1,11 @@
 
+
 # True profit calculator
 
 
 True profit calculation as a solution for eco-accountability and human wealth
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
 Darwin's “survival of the fittest” theory explains the ecological crisis. In contrast to man’s ancestors, now, the fittest is the richest in terms of money. Financial profit increases exponentially along with planetary debt, since inferior products with negative climate impact are cheaper to produce and sell than sustainable products. The planet doesn't collect debts from an individual but from an entire society and with considerable delay. In other words; the current economy encourages eco-damage rather than eco-accountability. Considering the nature of the fittest in society, we believe that in order to promote eco-accountability and human wealth, our economy needs to redefine the concept of profit. 
@@ -83,4 +86,18 @@ The impact is measured in a triple bottom line.
 2) social profits; by effectively redistributing environmental profits among the different actors of the community.  
  
 3) Financial profit for transparent sustainable models. 
+
+Define specific problem you are addressing
+
+We wish to address to problem of  unsustainable profit and production by using the planetary cost accounting framework which includes all currently externalized costs to planet and society.when this is taken as a or the norm for calculating profit and a currency to monetize them Zero waste economy would be many times more profitable than the linear waste economy.
+
+Blockchain heavy technology is needed because we will try to thoroughly test its capacity to fluidly combine multiple decentralized ledgers dynamically together, ranging from direct liquid participative democracy ,transparent production ledgers, planetary accounting frameworks to calculate planetary profit and monetize thru a cryptocurrency ,automated user feedback integration.I don’t know any other technology able to do this job.
+
+We wish to serve humans between the age of 8 or 18 (depending on the decisions of the participators) and ∞. We believe the potential of the project ranges from small local p2p networks to a global community.
+
+Currently there are two different approaches addressing this problem of unsustainable products and profit.The first approach is to gather and analyze all planetary costs and transform them into new taxes to keep business as usual and ‘repair’ the eco-damage made in the production process of the product with the collected tax money. The other strategy is to innovate and avoid planetary and social costs and operated close to zero waste production. Many systems like direct an liquid democracy, transparent production control systems, planetary costs accounting, and cryptocurrencies are or could be running on blockchain technology, so its just putting parts together.
+Access to network is still a considerable problem but many forces are working on this subject , maybe this initiative could create some new possibilities on this matter .
+So many Different people in different parts of the world  obviously have different basic needs to have a decent life.
+If we monetize the planetary profit globally than there is more profit to be made where there now are more planetary costs, Whether this is fair or which kind of correctional factor should be used to correct this, and many other inequality matters, are very good subject for discussion and science.
+
 
