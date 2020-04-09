@@ -29,13 +29,13 @@ Pain points and user stories
 Who are your constituents, clients and users?  
  
  
- (1)People in need of basic goods and services. 
+ 1) People in need of basic goods and services. 
  
- (2)Responsible consumers  supporting sustainable Economy  
+ 2) Responsible consumers  supporting sustainable Economy  
  
- (3)Sustainable,circular businesses growing towards zero waste production  
+ 3) Sustainable,circular businesses growing towards zero waste production  
  
- (4)Social, public and institutional actors promoting a more sustainable, horizontal, participative, open source, transparent, inclusive, consensus, bottom up, circular, social, artistic society.   
+ 4) Social, public and institutional actors promoting a more sustainable, horizontal, participative, open source, transparent, inclusive, consensus, bottom up, circular, social, artistic society.   
  
 User pain points  
  
@@ -78,9 +78,9 @@ How do we measure the impact of our solution?
  
 The impact is measured in a triple bottom line.  
  
-(1)  environmental profits; we only support actors that take in account all environmental and social costs,whence these costs are reduced and avoided by responsible and intelligent business models communities and ecosystems can thrive again. 
+1)  environmental profits; we only support actors that take in account all environmental and social costs,whence these costs are reduced and avoided by responsible and intelligent business models communities and ecosystems can thrive again. 
  
-(2) social profits; by effectively redistributing environmental profits among the different actors of the community.  
+2) social profits; by effectively redistributing environmental profits among the different actors of the community.  
  
-(3) Financial profit for transparent sustainable models. 
+3) Financial profit for transparent sustainable models. 
 
