@@ -1,5 +1,5 @@
-# trueprofit
-True profit calculator
+# True profit calculator
+
 
 True profit calculation as a solution for eco-accountability and human wealth
 
