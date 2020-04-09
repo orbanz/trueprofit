@@ -5,7 +5,7 @@
 
 True profit calculation as a solution for eco-accountability and human wealth
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p4MRqNDMsIQ/0.jpg)](https://www.youtube.com/watch?v=p4MRqNDMsIQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/97Y4Sm7-pnE/0.jpg)](https://www.youtube.com/watch?v=97Y4Sm7-pnE)
 
 
 Darwin's “survival of the fittest” theory explains the ecological crisis. In contrast to man’s ancestors, now, the fittest is the richest in terms of money. Financial profit increases exponentially along with planetary debt, since inferior products with negative climate impact are cheaper to produce and sell than sustainable products. The planet doesn't collect debts from an individual but from an entire society and with considerable delay. In other words; the current economy encourages eco-damage rather than eco-accountability. Considering the nature of the fittest in society, we believe that in order to promote eco-accountability and human wealth, our economy needs to redefine the concept of profit. 
